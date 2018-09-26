@@ -1,0 +1,15 @@
+[submodule "portus"]
+	path = portus
+	url = https://github.com/ccp-project/portus.git
+[submodule "ccp-kernel"]
+	path = ccp-kernel
+	url = https://github.com/ccp-project/ccp-kernel.git
+[submodule "mahimahi"]
+	path = mahimahi
+	url = https://github.com/akshayknarayan/mahimahi
+[submodule "bbr"]
+	path = bbr
+	url = https://github.com/ccp-project/bbr.git
+[submodule "empirical-traffic-gen"]
+	path = empirical-traffic-gen
+	url = https://github.com/akshayknarayan/empirical-traffic-gen
